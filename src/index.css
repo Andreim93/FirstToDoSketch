@@ -27,9 +27,9 @@ font-size: 15px;
 color: #333333;
 }
 
-input[type = checkbox]: focus{
+/* input[type = checkbox]: focus{
   outline :0;
-}
+} */
 
 
 @keyframes loading {
